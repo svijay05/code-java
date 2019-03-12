@@ -1,0 +1,30 @@
+package arrays;
+
+import java.util.HashMap;
+
+public class MajorityElement {
+	
+	
+	
+	
+	void majority(int arr)
+	{
+		
+		Map<Integer,Integer> map  =  new HashMap<Integer,Integer>();
+		
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+	    int arr[] = {2, 2, 2, 2, 5, 5, 2, 3, 3};  
+
+		
+		
+	}
+	
+	
+
+}
